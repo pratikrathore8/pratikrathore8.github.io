@@ -2,7 +2,7 @@
 title: "There are no Cube-free Descartes Numbers with Exactly Seven Distinct Prime Factors"
 collection: publications
 permalink: /publication/2018-08-29-descartes-numbers
-# excerpt: 'This paper contains new results that I proved about Descartes Numbers, a type of odd spoof perfect numbers.'
+excerpt:
 date: 2018-08-29
 venue: 'N/A'
 paperurl: 'https://pratikrathore8.github.io/files/descartes_numbers.pdf'
