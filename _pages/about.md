@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 I am a senior at the University of Maryland who is pursuing a double degree in mathematics and electrical engineering.
+
+Click the link to view my [CV](https://academicpages.github.io/files/cv.pdf).
