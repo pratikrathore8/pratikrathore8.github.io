@@ -2,7 +2,7 @@
 title: "There are no Cube-free Descartes Numbers with Exactly Seven Distinct Prime Factors"
 collection: publications
 permalink: /publication/2018-08-29-descartes-numbers
-excerpt:
+#excerpt:
 date: 2018-08-29
 venue: 'N/A'
 paperurl: 'https://pratikrathore8.github.io/files/descartes_numbers.pdf'
