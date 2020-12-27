@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Home"
 author_profile: true
 redirect_from:
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 I am a senior at the University of Maryland who is pursuing a double degree in mathematics and electrical engineering.
 
-From those taken in by the five senses, to those emitted by distant stars, signals play a key role in our daily lives. As our world becomes more data-driven, new tools to separate signals from noise need to be developed. My research interests are in developing new signal processing and machine learning algorithms. In particular, I am interested in applying mathematics towards developing new theoretical framework in the areas of signal processing and machine learning, and using such framework towards solving real-world problems.
+From those taken in by the five senses, to those emitted by distant stars, signals play a key role in our daily lives. As our world becomes more data-driven, new tools to separate signals from noise need to be developed. **My research interests are in developing new signal processing and machine learning algorithms.** In particular, I am interested in applying mathematics towards developing new theoretical framework in the areas of signal processing and machine learning, and using such framework towards solving real-world problems.
 
 I am currently an intern at [Systems & Technology Research (STR)](https://stresearch.com), where I have developed target tracking and image processing algorithms for inverse synthetic aperture radar (ISAR) imaging. I am now part of a team at STR that is applying deep learning towards performing automatic target recognition on ISAR images.
 
