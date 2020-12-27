@@ -10,7 +10,7 @@ redirect_from:
 About me
 =====
 
-I am a senior at the University of Maryland who is pursuing a double degree in mathematics and electrical engineering. At Maryland, I am a Banneker/Key scholar, a prestigious, merit-based honor that includes a full scholarship and is awarded to undergraduates who have demonstrated significant academic leadership and accomplishment in high school.
+I am a senior at the University of Maryland pursuing a double degree in mathematics and electrical engineering. At Maryland, I am a Banneker/Key scholar, a prestigious, merit-based honor that includes a full scholarship and is awarded to undergraduates who have demonstrated significant academic leadership and accomplishment in high school.
 
 From those taken in by the five senses, to those emitted by distant stars, signals play a key role in our daily lives. As our world becomes more data-driven, new tools to separate signals from noise need to be developed. **My research interests are in developing new signal processing and machine learning algorithms.** In particular, I am interested in applying mathematics towards developing new theoretical framework in the areas of signal processing and machine learning, and using such framework towards solving real-world problems.
 
