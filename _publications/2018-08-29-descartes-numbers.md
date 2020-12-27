@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-08-29-descartes-numbers
 excerpt: ''
 date: 2018-08-29
-venue: 'N/A'
+venue: 'arXiv'
 paperurl:
 citation: 'Rathore, P., There are no Cube-free Descartes Numbers with Exactly Seven Distinct Prime Factors (2018),
 https://arxiv.org/abs/1808.10027, preprint.'

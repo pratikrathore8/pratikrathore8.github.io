@@ -20,4 +20,6 @@ In the past, I have worked at [Lockheed Martin Space](https://www.lockheedmartin
 
 At Maryland, I have been part of the Putnam Math Competition team for the last three years. In 2018, the team [finished in 9th place](https://cmns.umd.edu/news-events/features/4388), its best performance in almost a decade, and I was ranked in the top 3% of all competitors. In high school, I qualified for the United States of America Mathematical Olympiad (USAMO).
 
+In my free time, I enjoy cooking, working out, playing poker, and watching sports (especially the NBA).
+
 Click the link to view my [CV](https://pratikrathore8.github.io/files/cv.pdf).
