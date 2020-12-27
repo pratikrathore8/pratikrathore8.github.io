@@ -16,10 +16,10 @@ Education
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Work experience
+Research & Industry Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Electrical Engineering Intern (May 2020 -- Present)
+  * Systems & Technology Research, Woburn, MA
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
