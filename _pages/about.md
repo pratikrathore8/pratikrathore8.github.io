@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Pratik Rathore's website.
+I am a senior at the University of Maryland who is pursuing a double degree in mathematics and electrical engineering.
