@@ -19,12 +19,22 @@ Contact: <pratikrathore8@gmail.com>
 
 ---
 
-Discussion \#1: 1/28
+**Discussion \#1**: 1/28
 - Setting up GLUE
 - UNIX Commands
-- Submitting Homework/Projects via submit command
+- Submitting assignments via submit command
 - PowerPoint coming soon
 
 ---
 
-Resources
+## Resources
+
+### Windows
+- PuTTY
+- WinSCP
+- Notepad++
+- Visual Studio Code
+
+### MacOS
+- Cyberduck
+- Visual Studio Code
