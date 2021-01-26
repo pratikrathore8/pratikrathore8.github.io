@@ -20,7 +20,7 @@ Please include '[ENEE150]' in the beginning of the subject line for all course-r
 
 **Zip command**: zip -r \<compressed_directory_name\>.zip \<directory_name\>
 
-**Submit command**: submit 2021 enee 150 0102 \<assignment number\> \<file name\>
+**Submit command**: submit 2021 enee 150 0102 \<assignment number\> \<file_name\>
 
 ---
 
