@@ -29,11 +29,11 @@ Contact: <pratikrathore8@gmail.com>
 
 **Resources**
 ### Windows
-- PuTTY
-- WinSCP
-- Notepad++
-- Visual Studio Code
+- [PuTTY](https://www.putty.org)
+- [WinSCP](https://winscp.net/eng/index.php)
+- [Notepad++](http://notepad-plus-plus.org)
+- [Visual Studio Code](https://code.visualstudio.com)
 
 ### MacOS
-- Cyberduck
-- Visual Studio Code
+- [Cyberduck](https://cyberduck.io)
+- [Visual Studio Code](https://code.visualstudio.com)
