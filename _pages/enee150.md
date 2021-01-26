@@ -27,7 +27,7 @@ Contact: <pratikrathore8@gmail.com>
 
 ---
 
-## Resources
+**Resources**
 ### Windows
 - PuTTY
 - WinSCP
