@@ -6,4 +6,5 @@ redirect_from:
   - /enee150/
   - /enee150.html
 ---
+Intermediate Programming Concepts for Engineers
 Spring 2021
