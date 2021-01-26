@@ -16,6 +16,7 @@ Zoom Link:<br>
 Zoom Meeting ID:<br>
 
 Contact: <pratikrathore8@gmail.com>
+Please include '[ENEE150]' in the beginning of the subject line for all course-related emails.
 
 ---
 
