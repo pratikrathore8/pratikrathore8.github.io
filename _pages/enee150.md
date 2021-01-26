@@ -14,3 +14,11 @@ Zoom Meeting ID:<br>
 Office Hours: Tuesdays, 3 - 4 PM; Thursdays, 2 - 3 PM<br>
 Zoom Link:<br>
 Zoom Meeting ID:<br>
+
+---
+
+Discussion \#1: 1/28
+-
+-
+-
+-
