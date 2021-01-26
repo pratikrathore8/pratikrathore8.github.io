@@ -25,7 +25,7 @@ Zoom Meeting ID:
 ---
 
 **Discussion \#1**: 1/28
-- Setting up GLUE
+- Setting up Glue
 - UNIX Commands
 - Submitting assignments via submit command
 - [hello_world.c](https://pratikrathore8.github.io/files/enee150_files/hello_world.c)
@@ -34,12 +34,16 @@ Zoom Meeting ID:
 ---
 
 **Resources**
-### Windows
+- [Using Git on Glue](http://www.cs.umd.edu/~nelson/classes/resources/web/resources/gitTutorial.html)
+- [Git/Github Intro](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+- [Git GUI Clients](https://git-scm.com/downloads/guis/)
+
+### Windows Software
 - [PuTTY](https://www.putty.org)
 - [WinSCP](https://winscp.net/eng/index.php)
 - [Notepad++](http://notepad-plus-plus.org)
 - [Visual Studio Code](https://code.visualstudio.com)
 
-### MacOS
+### MacOS Software
 - [Cyberduck](https://cyberduck.io)
 - [Visual Studio Code](https://code.visualstudio.com)
