@@ -28,6 +28,7 @@ Zoom Meeting ID:<br>
 - Setting up GLUE
 - UNIX Commands
 - Submitting assignments via submit command
+- [hello_world.c](https://pratikrathore8.github.io/files/enee150_files/hello_world.c)
 - PowerPoint coming soon
 
 ---
