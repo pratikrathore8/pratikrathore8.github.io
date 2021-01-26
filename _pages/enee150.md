@@ -15,10 +15,16 @@ Office Hours: Tuesdays, 3 - 4 PM; Thursdays, 2 - 3 PM<br>
 Zoom Link:<br>
 Zoom Meeting ID:<br>
 
+Contact: <pratikrathore8@gmail.com>
+
 ---
 
 Discussion \#1: 1/28
--
--
--
--
+- Setting up GLUE
+- UNIX Commands
+- Submitting Homework/Projects via submit command
+- PowerPoint coming soon
+
+---
+
+Resources
