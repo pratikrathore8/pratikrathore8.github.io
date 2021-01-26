@@ -20,7 +20,7 @@ Zoom Meeting ID:
 
 **Zip command**: zip -r \<compressed_directory_name\>.zip \<directory_name\>
 
-**Submit command**: submit 2021 enee 150 0102 \<assignment number\> \<file_name\>
+**Submit command**: submit 2021 spring enee 150 0102 \<assignment number\> \<file_name\>
 
 ---
 
