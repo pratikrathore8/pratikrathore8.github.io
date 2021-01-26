@@ -18,9 +18,9 @@ Zoom Meeting ID:<br>
 Contact: <pratikrathore8@gmail.com><br>
 Please include '[ENEE150]' in the beginning of the subject line for all course-related emails.
 
-**Zip command**: zip -r <compressed_directory_name>.zip <directory_name>
+**Zip command**: zip -r \<compressed_directory_name\>.zip \<directory_name\>
 
-**Submit command**: submit 2021 enee 150 0102 <assignment number> <file name>
+**Submit command**: submit 2021 enee 150 0102 \<assignment number\> \<file name\>
 
 ---
 
