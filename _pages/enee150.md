@@ -8,7 +8,7 @@ redirect_from:
 *Intermediate Programming Concepts for Engineers, Spring 2021*
 
 Discussion Time: Thursdays, 10 - 10:50 AM<br>
-Zoom Link:<br>
+Zoom Link: [https://umd.zoom.us/j/98155812090?pwd=eEFjeTFEWXJMTml3VHlEOURMSWlxdz09](https://umd.zoom.us/j/98155812090?pwd=eEFjeTFEWXJMTml3VHlEOURMSWlxdz09)<br>
 Zoom Meeting ID:<br>
 
 Office Hours: Tuesdays, 3 - 4 PM; Thursdays, 2 - 3 PM<br>
