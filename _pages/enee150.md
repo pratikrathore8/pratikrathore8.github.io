@@ -7,14 +7,14 @@ redirect_from:
 ---
 *Intermediate Programming Concepts for Engineers, Spring 2021*
 
-**Discussion Time**: Thursdays, 10 - 10:50 AM<br>
-Zoom Link: [https://umd.zoom.us/j/98155812090?pwd=eEFjeTFEWXJMTml3VHlEOURMSWlxdz09](https://umd.zoom.us/j/98155812090?pwd=eEFjeTFEWXJMTml3VHlEOURMSWlxdz09)<br>
+**Discussion**: Thursdays, 10 - 10:50 AM<br>
+Zoom Link: [https://umd.zoom.us/j/98155812090](https://umd.zoom.us/j/98155812090)<br>
 Zoom Meeting ID: 981 5581 2090
 
 **Office Hours**: Tuesdays & Thursdays, 3:30 - 4:30 PM<br>
 Zoom Link:
-- Tuesdays: [https://umd.zoom.us/j/92092188286?pwd=ckVrS0g0dmhTQ1htazladVJqLzVMZz09](https://umd.zoom.us/j/92092188286?pwd=ckVrS0g0dmhTQ1htazladVJqLzVMZz09)
-- Thursdays: [https://umd.zoom.us/j/99703497532?pwd=SXcxeUdxL0lObytSV1ZPb3BVam1xQT09](https://umd.zoom.us/j/99703497532?pwd=SXcxeUdxL0lObytSV1ZPb3BVam1xQT09)
+- Tuesdays: [https://umd.zoom.us/j/92092188286](https://umd.zoom.us/j/92092188286)
+- Thursdays: [https://umd.zoom.us/j/99703497532](https://umd.zoom.us/j/99703497532)
 
 Zoom Meeting ID:
 - Tuesdays: 920 9218 8286
