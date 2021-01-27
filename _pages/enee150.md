@@ -11,7 +11,7 @@ Discussion Time: Thursdays, 10 - 10:50 AM<br>
 Zoom Link: [https://umd.zoom.us/j/98155812090?pwd=eEFjeTFEWXJMTml3VHlEOURMSWlxdz09](https://umd.zoom.us/j/98155812090?pwd=eEFjeTFEWXJMTml3VHlEOURMSWlxdz09)<br>
 Zoom Meeting ID: 981 5581 2090
 
-Office Hours: Tuesdays, 3 - 4 PM; Thursdays, 2 - 3 PM<br>
+Office Hours: Tuesdays & Thursdays, 3:30 - 4:30 PM<br>
 Zoom Link:<br>
 Zoom Meeting ID:
 
