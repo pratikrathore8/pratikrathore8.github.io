@@ -34,7 +34,7 @@ Zoom Meeting ID:
 - UNIX Commands
 - Submitting assignments via submit command
 - [hello_world.c](https://pratikrathore8.github.io/files/enee150_files/hello_world.c)
-- PowerPoint coming soon
+- [PowerPoint](https://pratikrathore8.github.io/files/enee150_files/enee150_discussion_1.pptx)
 
 ---
 
