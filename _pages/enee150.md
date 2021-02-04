@@ -28,6 +28,9 @@ Zoom Meeting ID:
 **Submit command**: submit 2021 spring enee 150 0102 \<assignment number\> \<file_name\>
 
 ---
+**Discussion \#2**: 2/4
+- Overview of Project 1
+- [PowerPoint](https://pratikrathore8.github.io/files/enee150_files/enee150_discussion_2.pptx)
 
 **Discussion \#1**: 1/28
 - Setting up Glue
