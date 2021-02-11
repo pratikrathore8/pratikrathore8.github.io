@@ -28,6 +28,14 @@ Zoom Meeting ID:
 **Submit command**: submit 2021 spring enee 150 0102 \<assignment number\> \<file_name\>
 
 ---
+**Discussion \#3**: 2/11
+- Unit testing
+- Gdb intro + demo
+- [driver.c (Unit testing example)](https://pratikrathore8.github.io/files/enee150_files/driver.c)
+- [seg_fault_ex.c (gdb example)](https://pratikrathore8.github.io/files/enee150_files/seg_fault_ex.c)
+- [factorial.c (gdb example)](https://pratikrathore8.github.io/files/enee150_files/factorial.c)
+- [PowerPoint](https://pratikrathore8.github.io/files/enee150_files/enee150_discussion_3.pptx)
+
 **Discussion \#2**: 2/4
 - Overview of Project 1
 - [PowerPoint](https://pratikrathore8.github.io/files/enee150_files/enee150_discussion_2.pptx)
