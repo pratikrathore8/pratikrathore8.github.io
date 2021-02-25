@@ -28,6 +28,13 @@ Zoom Meeting ID:
 **Submit command**: submit 2021 spring enee 150 0102 \<assignment number\> \<file_name\>
 
 ---
+**Discussion \#4**: 2/25
+- Pointers
+- Pass by reference
+- Pointer arithmetic
+- [pass_by_ref_ex.c](https://pratikrathore8.github.io/files/enee150_files/pass_by_ref_ex.c)
+- [PowerPoint](https://pratikrathore8.github.io/files/enee150_files/enee150_discussion_4.pptx)
+
 **Discussion \#3**: 2/11
 - Unit testing
 - Gdb intro + demo
