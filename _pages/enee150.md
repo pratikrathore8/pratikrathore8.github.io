@@ -28,6 +28,10 @@ Zoom Meeting ID:
 **Submit command**: submit 2021 spring enee 150 0102 \<assignment number\> \<file_name\>
 
 ---
+**Discussion \#5**: 3/4
+- Overview of Project 2
+- [PowerPoint](https://pratikrathore8.github.io/files/enee150_files/enee150_discussion_5.pptx)
+
 **Discussion \#4**: 2/25
 - Pointers
 - Pass by reference
