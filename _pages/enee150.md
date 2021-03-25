@@ -28,6 +28,10 @@ Zoom Meeting ID:
 **Submit command**: submit 2021 spring enee 150 0102 \<assignment number\> \<file_name\>
 
 ---
+**Discussion \#7**: 3/25
+- Linked Lists
+- [PowerPoint](https://pratikrathore8.github.io/files/enee150_files/enee150_discussion_7.pptx)
+
 **Discussion \#6**: 3/11
 - Structs
 - Dynamic Memory Management (malloc, calloc, free)
