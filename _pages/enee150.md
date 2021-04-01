@@ -28,7 +28,7 @@ Zoom Meeting ID:
 **Submit command**: submit 2021 spring enee 150 0102 \<assignment number\> \<file_name\>
 
 ---
-**Discussion \#5**: 4/1
+**Discussion \#8**: 4/1
 - Overview of Project 3
 - [album_malloc_ex.c](https://pratikrathore8.github.io/files/enee150_files/album_malloc_ex.c)
 - [PowerPoint](https://pratikrathore8.github.io/files/enee150_files/enee150_discussion_8.pptx)
