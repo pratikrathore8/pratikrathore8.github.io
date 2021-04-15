@@ -28,6 +28,12 @@ Zoom Meeting ID:
 **Submit command**: submit 2021 spring enee 150 0102 \<assignment number\> \<file_name\>
 
 ---
+**Discussion \#10**: 4/15
+- Recursion + Examples (Euclidean algorithm, quicksort)
+- [euclid.c](https://pratikrathore8.github.io/files/enee150_files/euclid.c)
+- [quicksort.c](https://pratikrathore8.github.io/files/enee150_files/quicksort.c)
+- [PowerPoint](https://pratikrathore8.github.io/files/enee150_files/enee150_discussion_10.pptx)
+
 **Discussion \#9**: 4/8
 - Midterm 2 Review
 - [PowerPoint](https://pratikrathore8.github.io/files/enee150_files/enee150_discussion_9.pptx)
