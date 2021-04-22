@@ -28,6 +28,14 @@ Zoom Meeting ID:
 **Submit command**: submit 2021 spring enee 150 0102 \<assignment number\> \<file_name\>
 
 ---
+**Discussion \#10**: 4/22
+- ADTs (Example: complex numbers)
+- Polymorphism
+- [complex.h](https://pratikrathore8.github.io/files/enee150_files/complex.h)
+- [complex.c](https://pratikrathore8.github.io/files/enee150_files/complex.c)
+- [test_complex.c](https://pratikrathore8.github.io/files/enee150_files/test_complex.c)
+- [PowerPoint](https://pratikrathore8.github.io/files/enee150_files/enee150_discussion_11.pptx)
+
 **Discussion \#10**: 4/15
 - Recursion + Examples (Euclidean algorithm, quicksort)
 - [euclid.c](https://pratikrathore8.github.io/files/enee150_files/euclid.c)
