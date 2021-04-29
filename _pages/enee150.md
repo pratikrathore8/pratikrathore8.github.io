@@ -28,7 +28,11 @@ Zoom Meeting ID:
 **Submit command**: submit 2021 spring enee 150 0102 \<assignment number\> \<file_name\>
 
 ---
-**Discussion \#10**: 4/22
+**Discussion \#12**: 4/29
+- Overview of Project 4
+- [PowerPoint](https://pratikrathore8.github.io/files/enee150_files/enee150_discussion_12.pptx)
+
+**Discussion \#11**: 4/22
 - ADTs (Example: complex numbers)
 - Polymorphism
 - [complex.h](https://pratikrathore8.github.io/files/enee150_files/complex.h)
