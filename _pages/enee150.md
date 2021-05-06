@@ -28,6 +28,11 @@ Zoom Meeting ID:
 **Submit command**: submit 2021 spring enee 150 0102 \<assignment number\> \<file_name\>
 
 ---
+**Discussion \#13**: 5/6
+- Two's Complement
+- Bitwise Operators
+- [PowerPoint](https://pratikrathore8.github.io/files/enee150_files/enee150_discussion_13.pptx)
+
 **Discussion \#12**: 4/29
 - Overview of Project 4
 - [PowerPoint](https://pratikrathore8.github.io/files/enee150_files/enee150_discussion_12.pptx)
