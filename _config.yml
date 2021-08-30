@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pratik Rathore"
 title_separator          : "-"
 name                     : &name "Pratik Rathore"
-description              : &description "University of Maryland"
+description              : &description "Stanford University"
 url                      : https://pratikrathore8.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pratikrathore8.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Pratik Rathore"
   avatar           : "self_portrait_cropped.jpeg"
-  bio              : "University of Maryland"
-  location         : "College Park, MD"
+  bio              : "Stanford University"
+  location         : "Stanford, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=9WOwy2sAAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pratikrathore8"
+  github           : # "pratikrathore8"
   google_plus      :
   keybase          :
   instagram        :
