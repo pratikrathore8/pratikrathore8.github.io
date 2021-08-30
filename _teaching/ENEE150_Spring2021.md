@@ -11,4 +11,4 @@ location: "University of Maryland"
 * Presented on programming concepts and class assignments during weekly discussion sections
 * Held office hours two times per week to help students with programming assignments
 * Graded exams, projects, and homework submitted by students
-* [Class page](https://pratikrathore8.github.io/_pages/enee150.md)
+* [Class page](https://pratikrathore8.github.io/enee150)
