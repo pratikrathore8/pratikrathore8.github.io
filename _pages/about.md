@@ -16,12 +16,12 @@ I received a B.S. in Electrical Engineering and a B.S. in Mathematics from the U
 
 In my free time, I enjoy cooking, working out, playing poker, and watching sports (especially the NBA).
 
-Research interests
+Research interests & experiences
 =====
 
 From those taken in by the five senses, to those emitted by distant stars, signals play a key role in our daily lives. As our world becomes more data-driven, new tools to separate signals from noise need to be developed. **My research interests are in developing new machine learning and signal processing algorithms.** In particular, I am interested in applying mathematics towards developing new theoretical framework in the areas of machine learning and signal processing, and using such framework towards solving real-world problems.
 
-From Summer 2020 to Summer 2021, I was an intern at [Systems & Technology Research (STR)](https://str.us). At STR, I developed tools for radar image processing, data generation for the training of automatic target recognition systems, and modeling and simulation of radar returns.
+From May 2020 to August 2021, I was an intern at [Systems & Technology Research (STR)](https://str.us). At STR, I developed tools for radar image processing, data generation for the training of automatic target recognition systems, and modeling and simulation of radar returns.
 
 In the past, I have worked at [Lockheed Martin Space](https://www.lockheedmartin.com/en-us/capabilities/space.html) and at the Department of Mathematics at the University of Maryland. At Lockheed Martin, I reviewed several computational models for satellites. At the Department of Mathematics, I conducted research in Descartes Numbers, [proved a new mathematical result](https://pratikrathore8.github.io/publication/2018-08-29-descartes-numbers), and received the University of Maryland Dan Shanks Award for Research in Computational Number Theory.
 
