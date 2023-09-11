@@ -21,7 +21,7 @@
                 <name>Pratik Rathore</name>
               </p>
               <p>
-                I am a second-year PhD student in the Electrical Engineering department at <a href="https://ee.stanford.edu">Stanford University</a>, interested in randomized algorithms for optimization, advised by <a href="https://web.stanford.edu/~udell/">Madeleine Udell</a>.
+                I am a third-year PhD student in the Electrical Engineering department at <a href="https://ee.stanford.edu">Stanford University</a>, interested in randomized algorithms for optimization, advised by <a href="https://web.stanford.edu/~udell/">Madeleine Udell</a>.
               </p>
               <p>
                 Before Stanford, I graduated from the <a href="https://www.umd.edu">University of Maryland</a> with a double degree in Electrical Engineering and Mathematics. As an undergraduate, I completed internships at <a href="https://str.us">STR</a>, where I conducted research on radar image processing,
@@ -48,9 +48,40 @@
               <p>
                 I'm interested in using randomization to improve the scalability of optimization algorithms, especially in applications to machine learning. Recently, I've thinking about using sketching and low-rank approximation to develop new algorithms for convex, finite-sum optimization and deep learning.   
               </p>
+              <p>
+                <sup>*</sup> denotes equal contribution.
+              </p>
             </td>
           </tr>
         </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tbody>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2309.02014">
+                <papertitle>PROMISE: Preconditioned Stochastic Optimization Methods by Incorporating Scalable Curvature Estimates</papertitle>
+              </a>
+              <br>
+              Zachary Frangella<sup>*</sup>,
+              <strong>Pratik Rathore<sup>*</sup></strong>,
+              Shipu Zhao,
+              <a href="https://web.stanford.edu/~udell/">Madeleine Udell</a>
+              <br>
+              <em>preprint</em>
+              <br>
+              <a href="https://arxiv.org/abs/2309.02014">arXiv</a>
+              /
+              <a href="https://github.com/udellgroup/PROMISE">code</a>
+              <p></p>
+              <p>
+                We propose PROMISE, a family of preconditioned stochastic optimization methods that use scalable, randomized curvature estimates to solve
+                large-scale, ill-conditioned convex optimization problems in machine learning.
+                PROMISE methods, with <em>default</em> hyperparameters, outperform popular <em>tuned</em> stochastic optimizers on ridge and logistic regression.
+                Furthermore, we introduce <em>quadratic regularity</em>, which determines the speed of linear convergence for PROMISE methods
+                and allows us to obtain improved rates for ridge regresison.
+              </p>
+            </td>
+          </tbody>
+        </table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tbody>
             <td style="padding:20px;width:75%;vertical-align:middle">
@@ -63,9 +94,11 @@
               Shipu Zhao,
               <a href="https://web.stanford.edu/~udell/">Madeleine Udell</a>
               <br>
-              <em>submitted</em>
+              <em>in submission</em>
               <br>
               <a href="https://arxiv.org/abs/2211.08597">arXiv</a>
+              /
+              <a href="https://github.com/udellgroup/SketchySGD/tree/main/convex">code</a>
               <p></p>
               <p>
                 We use techniques from randomized numerical linear algebra to develop a fast, scalable stochastic quasi-Newton method for convex machine learning problems.
