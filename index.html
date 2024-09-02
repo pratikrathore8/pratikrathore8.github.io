@@ -67,11 +67,11 @@
               <br>
               <em>preprint</em>
               <br>
-              <a href="https://arxiv.org/abs/2407.10070">arXiv</a>
-              <p></p>
-              <p>
+              <a href="https://arxiv.org/abs/2407.10070">[arXiv]</a>
+              <span class="toggle-link" onclick="toggleAbstract('abstract-askotch')">[abstract]</span>
+              <p id="abstract-askotch" class="abstract-content">
                 We develop ASkotch, a fast, memory-efficient algorithm for
-                large-scale kernel ridge regression (KRR), based on randomized preconditioning, acceleration, and coordinate descent. 
+                large-scale kernel ridge regression (KRR), based on randomized preconditioning, acceleration, and coordinate descent.
                 Our experiments show that ASkotch outperforms state-of-the-art KRR methods on a variety of tasks,
                 such as molecular orbital energy prediction, classification in particle physics, and transportation data analysis.
               </p>
@@ -93,11 +93,10 @@
               <br>
               <em>ICML 2024, <strong>Oral (top 1.5% of submissions)</strong></em>
               <br>
-              <a href="https://arxiv.org/abs/2402.01868">arXiv</a>
-              /
-              <a href="https://github.com/pratikrathore8/opt_for_pinns">code</a>
-              <p></p>
-              <p>
+              <a href="https://arxiv.org/abs/2402.01868">[arXiv]</a>
+              <a href="https://github.com/pratikrathore8/opt_for_pinns">[code]</a>
+              <span class="toggle-link" onclick="toggleAbstract('abstract-pinns')">[abstract]</span>
+              <p id="abstract-pinns" class="abstract-content">
                 We study challenges in training physics-informed neural networks. We link training issues to ill-conditioning of the loss,
                 and show a combined Adam and L-BFGS approach, along with a new optimizer, NysNewton-CG, enhances PINN performance.
               </p>
@@ -118,11 +117,10 @@
               <br>
               <em>in revision at JMLR</em>
               <br>
-              <a href="https://arxiv.org/abs/2309.02014">arXiv</a>
-              /
-              <a href="https://github.com/udellgroup/PROMISE">code</a>
-              <p></p>
-              <p>
+              <a href="https://arxiv.org/abs/2309.02014">[arXiv]</a>
+              <a href="https://github.com/udellgroup/PROMISE">[code]</a>
+              <span class="toggle-link" onclick="toggleAbstract('abstract-promise')">[abstract]</span>
+              <p id="abstract-promise" class="abstract-content">
                 We propose PROMISE, a family of preconditioned stochastic optimization methods that use scalable, randomized curvature estimates to solve
                 large-scale, ill-conditioned convex optimization problems in machine learning.
                 PROMISE methods, with <em>default</em> hyperparameters, outperform popular <em>tuned</em> stochastic optimizers on ridge and logistic regression.
@@ -146,11 +144,10 @@
               <br>
               <em>accepted at SIMODS</em>
               <br>
-              <a href="https://arxiv.org/abs/2211.08597">arXiv</a>
-              /
-              <a href="https://github.com/udellgroup/SketchySGD/tree/main/convex">code</a>
-              <p></p>
-              <p>
+              <a href="https://arxiv.org/abs/2211.08597">[arXiv]</a>
+              <a href="https://github.com/udellgroup/SketchySGD/tree/main/convex">[code]</a>
+              <span class="toggle-link" onclick="toggleAbstract('abstract-sketchysgd')">[abstract]</span>
+              <p id="abstract-sketchysgd" class="abstract-content">
                 We use techniques from randomized numerical linear algebra to develop a fast, scalable, preconditioned stochastic gradient method for convex machine learning problems.
               </p>
             </td>
@@ -166,9 +163,9 @@
               <br>
               <em>preprint</em>
               <br>
-              <a href="https://arxiv.org/abs/1808.10027">arXiv</a>
-              <p></p>
-              <p>
+              <a href="https://arxiv.org/abs/1808.10027">[arXiv]</a>
+              <span class="toggle-link" onclick="toggleAbstract('abstract-descartes')">[abstract]</span>
+              <p id="abstract-descartes" class="abstract-content">
               We prove new results regarding the prime factorizations of Descartes numbers, a family of odd spoof perfect numbers.
               </p>
             </td>
@@ -216,6 +213,19 @@
       </td>
     </tr>
   </table>
+
+  <!-- Allow for abstract to be opened and closed -->
+  <script>
+    function toggleAbstract(id) {
+      var element = document.getElementById(id);
+
+      if (element.style.display === "none" || element.style.display === "") {
+        element.style.display = "block"; // Show the abstract
+      } else {
+        element.style.display = "none"; // Hide the abstract
+      }
+    }
+  </script>
 
   <!-- <a title="Privacy-friendly Web Analytics" href="https://clicky.com/101299767"><img alt="Clicky"
       src="//static.getclicky.com/media/links/badge.gif" border="0" /></a> -->

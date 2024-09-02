@@ -129,3 +129,25 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+/* Styling for the abstract content */
+.abstract-content {
+  display: none;
+  /* Hide the abstract by default */
+  margin-top: 10px;
+  /* Add some space above the abstract */
+  /* font-style: italic; */
+  /* Italicize the abstract text */
+}
+
+/* Styling for the toggle link */
+.toggle-link {
+  cursor: pointer;
+  color: #1772d0;
+  /* text-decoration: underline; */
+}
+
+.toggle-link:hover {
+  color: #f09228;
+  text-decoration: none;
+}
