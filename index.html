@@ -40,7 +40,7 @@
                 <a href="data/PratikRathore-CV.pdf">CV</a> &nbsp/&nbsp
                 <a href="https://scholar.google.com/citations?user=9WOwy2sAAAAJ&hl=en">Google Scholar</a> &nbsp/&nbsp
                 <a href="https://www.linkedin.com/in/pratikrathore/">LinkedIn</a> &nbsp/&nbsp
-                <a href="https://github.com/pratikrathore8/">Github</a>
+                <a href="https://github.com/pratikrathore8/">GitHub</a>
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
@@ -53,7 +53,7 @@
             <td style="padding:20px;width:100%;vertical-align:middle">
               <heading>Research</heading>
               <p>
-                I'm interested in using randomization and preconditioning to design fast, scalable optimization algorithms for machine learning. Recently, I've been thinking about challenges in training physics-informed neural networks and using randomized low-rank approximations to develop new algorithms for convex, finite-sum optimization and deep learning.
+                I'm interested in using randomization and preconditioning to design fast, scalable optimization algorithms for machine learning. Recently, I've been thinking about optimization challenges in scientific machine learning and using randomized low-rank approximations to develop new algorithms for convex, finite-sum optimization and deep learning.
               </p>
               <p>
                 <sup>*</sup> denotes equal contribution.
@@ -65,22 +65,26 @@
           <tbody>
             <td style="padding:20px;width:75%;vertical-align:middle">
               <a href="https://arxiv.org/abs/2407.10070">
-                <papertitle>Have ASkotch: Fast Methods for Large-scale, Memory-constrained Kernel Ridge Regression</papertitle>
+                <papertitle>Have ASkotch: A Neat Solution for Large-scale Kernel Ridge Regression</papertitle>
               </a>
               <br>
               <strong>Pratik Rathore</strong>,
               Zachary Frangella,
+              Jiaming Yang,
+              <a href="https://web.eecs.umich.edu/~derezin/">Michał Dereziński</a>,
               <a href="https://web.stanford.edu/~udell/">Madeleine Udell</a>
               <br>
-              <em>preprint, 2024</em>
+              <em>submitted, 2024</em>
               <br>
               <a href="https://arxiv.org/abs/2407.10070">[arXiv]</a>
               <span class="toggle-link" onclick="toggleAbstract('abstract-askotch')">[abstract]</span>
               <p id="abstract-askotch" class="abstract-content">
-                We develop ASkotch, a fast, memory-efficient algorithm for
-                large-scale kernel ridge regression (KRR), based on randomized preconditioning, acceleration, and coordinate descent.
-                Our experiments show that ASkotch outperforms state-of-the-art KRR methods on a variety of tasks,
-                such as molecular orbital energy prediction, classification in particle physics, and transportation data analysis.
+                We develop ASkotch, a scalable, accelerated, iterative method for full 
+                kernel ridge regression (KRR) that provably obtains linear convergence.
+                ASkotch outperforms state-of-the-art KRR solvers on a testbed of 23 large-scale
+                KRR regression and classification tasks derived from a wide range of application domains.
+                Our work opens up the possibility of as-yet-unimagined applications of 
+                full KRR across a number of disciplines.
               </p>
             </td>
           </tbody>
@@ -199,7 +203,7 @@
           </tr>
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
-              <img src="images/umd.png" alt="umd" width="150" height="150">
+              <img src="images/umd.png" alt="umd" width="125" height="125">
             </td>
             <td width="75%" valign="center">
               TA, Intermediate Programming Concepts for Engineers (ENEE 150), Spring 2021
