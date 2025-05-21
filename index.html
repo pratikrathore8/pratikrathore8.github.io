@@ -53,7 +53,9 @@
             <td style="padding:20px;width:100%;vertical-align:middle">
               <heading>Research</heading>
               <p>
-                I'm interested in using randomization and preconditioning to design fast, scalable optimization algorithms for machine learning. Recently, I've been thinking about optimization challenges in scientific machine learning and using randomized low-rank approximations to develop new algorithms for convex, finite-sum optimization and deep learning.
+                I'm interested in using techniques from randomized numerical linear algebra and stochastic optimization to design fast, scalable optimization algorithms for training machine learning models.
+                Recently, I've also become interested in scientific machine learning, particularly focusing on
+                challenges and applications of physics-informed neural networks and operator learning.
               </p>
               <p>
                 <sup>*</sup> denotes equal contribution.
@@ -61,6 +63,32 @@
             </td>
           </tr>
         </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tbody>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2407.10070">
+                <papertitle>Turbocharging Gaussian Process Inference with Approximate Sketch-and-Project</papertitle>
+              </a>
+              <br>
+              <strong>Pratik Rathore</strong>,
+              Zachary Frangella,
+              Sachin Garg,
+              <a href="https://fazliani.owlstown.net/">Shaghayegh Fazliani</a>,
+              <a href="https://web.eecs.umich.edu/~derezin/">Michał Dereziński</a>,
+              <a href="https://web.stanford.edu/~udell/">Madeleine Udell</a>
+              <br>
+              <em>submitted, 2025</em>
+              <br>
+              <a href="https://arxiv.org/abs/2505.13723">[arXiv]</a>
+              <a href="https://github.com/pratikrathore8/scalable_gp_inference">[code]</a>
+              <span class="toggle-link" onclick="toggleAbstract('abstract-gps')">[abstract]</span>
+              <p id="abstract-gps" class="abstract-content">
+                We develop an approximate, distributed, accelerated sketch-and-project
+                method that scales Gaussian process inference to hundreds of millions of samples.
+              </p>
+            </td>
+          </tbody>
+        </table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tbody>
             <td style="padding:20px;width:75%;vertical-align:middle">
@@ -77,6 +105,7 @@
               <em>submitted, 2025</em>
               <br>
               <a href="https://arxiv.org/abs/2407.10070">[arXiv]</a>
+              <a href="https://github.com/pratikrathore8/fast_krr">[code]</a>
               <span class="toggle-link" onclick="toggleAbstract('abstract-askotch')">[abstract]</span>
               <p id="abstract-askotch" class="abstract-content">
                 We develop ASkotch, a scalable, accelerated, iterative method for full 
