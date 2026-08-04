@@ -1,0 +1,7 @@
+{%- comment -%}
+Renders a single person from _data/authors.yml by key.
+Usage: {% include author.html id="udell" %}  (or id=variable inside a loop)
+Outputs a link if the author has a `url`, otherwise just their name.
+{%- endcomment -%}
+{%- assign person = site.data.authors[include.id] -%}
+{%- if person.url -%}<a href="{{ person.url }}">{{ person.name }}</a>{%- else -%}{{ person.name }}{%- endif -%}

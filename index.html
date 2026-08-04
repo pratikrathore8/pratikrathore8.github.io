@@ -1,11 +1,13 @@
+---
+---
 <!DOCTYPE HTML>
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
   <title>Pratik Rathore</title>
-  
+
   <meta name="author" content="Pratik Rathore">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
+
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
 	<!-- <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>"> -->
   <link rel="icon" href="images/stanford_logo_small.png" type="image/png">
@@ -22,10 +24,11 @@
                 <name>Pratik Rathore</name>
               </p>
               <p>
-                I am a fifth-year PhD student in the Electrical Engineering department at <a href="https://ee.stanford.edu">Stanford University</a>, interested in optimization and machine learning, advised by <a href="https://web.stanford.edu/~udell/">Madeleine Udell</a>.
+                I recently graduated from <a href="https://ee.stanford.edu">Stanford University</a> with a PhD in Electrical Engineering, advised by {% include author.html id="udell" %}.
+                I am currently interning at a stealth startup in the energy sector, and will start as a quantitative researcher at <a href="https://www.citadelsecurities.com/">Citadel Securities</a> in Fall 2026.
               </p>
               <p>
-                Before Stanford, I graduated from the <a href="https://www.umd.edu">University of Maryland</a> with a double degree in Electrical Engineering and Mathematics. 
+                Before Stanford, I graduated from the <a href="https://www.umd.edu">University of Maryland</a> with a double degree in Electrical Engineering and Mathematics.
               </p>
               <p>
                 During my PhD, I have interned at <a href="https://www.skyworksinc.com/">Skyworks Solutions</a>, where I worked on AI-driven circuit design automation,
@@ -33,7 +36,7 @@
                 for battery scheduling and price impact models for energy trading.
               </p>
               <p style="text-align:center">
-                <a href="mailto:pratikr@stanford.edu">Email</a> &nbsp/&nbsp
+                <a href="mailto:pratikr@alumni.stanford.edu">Email</a> &nbsp/&nbsp
                 <a href="data/rathore_resume.pdf">Resume</a> &nbsp/&nbsp
                 <a href="data/rathore_cv.pdf">CV</a> &nbsp/&nbsp
                 <a href="https://scholar.google.com/citations?user=9WOwy2sAAAAJ&hl=en">Google Scholar</a> &nbsp/&nbsp
@@ -51,8 +54,8 @@
             <td style="padding:20px;width:100%;vertical-align:middle">
               <heading>Research</heading>
               <p>
-                I'm interested in using techniques from randomized numerical linear algebra and stochastic optimization to design fast, scalable optimization algorithms for training machine learning models.
-                Recently, I've also become interested in scientific machine learning, particularly focusing on
+                Earlier in my PhD, I leveraged techniques from randomized numerical linear algebra and stochastic optimization to design fast, scalable optimization algorithms for training machine learning models.
+                Later in my PhD, I became interested in scientific machine learning, particularly focusing on
                 challenges and applications of physics-informed neural networks and operator learning.
               </p>
               <p>
@@ -61,182 +64,7 @@
             </td>
           </tr>
         </tbody></table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tbody>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-              <a href="https://arxiv.org/abs/2605.30541">
-                <papertitle>SubsurfaceGen: Procedural Generation of Field-Scale Earth Models and Seismic Data</papertitle>
-              </a>
-              <br>
-              Joseph Stitt,
-              <strong>Pratik Rathore</strong>,
-              <a href="https://web.stanford.edu/~udell/">Madeleine Udell</a>,
-              <a href="https://icyphysics.stanford.edu/">Ching-Yao Lai</a>
-              <br>
-              <em>submitted, 2026</em>
-              <br>
-              <a href="https://arxiv.org/abs/2605.30541">[arXiv]</a>
-              <a href="https://anonymous.4open.science/r/subsurfacegen-8961">[code]</a>
-              <a href="https://huggingface.co/datasets/subsurfacegen/field-scale-dataset">[dataset]</a>
-              <span class="toggle-link" onclick="toggleAbstract('abstract-subsurfacegen')">[abstract]</span>
-              <p id="abstract-subsurfacegen" class="abstract-content">
-                Full waveform inversion (FWI) is the gold standard for subsurface imaging, but is computationally expensive.
-                Machine learning (ML) is promising for accelerating FWI, but ML-based approaches need field-scale, geologically diverse, and physically realistic datasets, which are unavailable in the literature.
-                We address these limitations with SubsurfaceGen, a GPU-accelerated generator for 3D velocity models and seismic data, which we use to create a field-scale, geologically diverse, physically realistic dataset (available on Hugging Face).
-                Our experiments on this dataset demonstrate SubsurfaceGen's potential to accelerate the development of ML-based FWI methods.
-              </p>
-            </td>
-          </tbody>
-        </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tbody>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-              <a href="https://arxiv.org/abs/2407.10070">
-                <papertitle>Turbocharging Gaussian Process Inference with Approximate Sketch-and-Project</papertitle>
-              </a>
-              <br>
-              <strong>Pratik Rathore</strong>,
-              Zachary Frangella,
-              Sachin Garg,
-              <a href="https://fazliani.owlstown.net/">Shaghayegh Fazliani</a>,
-              <a href="https://web.eecs.umich.edu/~derezin/">Michał Dereziński</a>,
-              <a href="https://web.stanford.edu/~udell/">Madeleine Udell</a>
-              <br>
-              <em>NeurIPS, 2025</em>
-              <br>
-              <a href="https://arxiv.org/abs/2505.13723">[arXiv]</a>
-              <a href="https://github.com/pratikrathore8/scalable_gp_inference">[code]</a>
-              <span class="toggle-link" onclick="toggleAbstract('abstract-gps')">[abstract]</span>
-              <p id="abstract-gps" class="abstract-content">
-                We develop an approximate, distributed, accelerated sketch-and-project
-                method that scales Gaussian process inference to hundreds of millions of samples.
-              </p>
-            </td>
-          </tbody>
-        </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tbody>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-              <a href="https://arxiv.org/abs/2407.10070">
-                <papertitle>Have ASkotch: A Neat Solution for Large-scale Kernel Ridge Regression</papertitle>
-              </a>
-              <br>
-              <strong>Pratik Rathore</strong>,
-              Zachary Frangella,
-              Jiaming Yang,
-              <a href="https://web.eecs.umich.edu/~derezin/">Michał Dereziński</a>,
-              <a href="https://web.stanford.edu/~udell/">Madeleine Udell</a>
-              <br>
-              <em>submitted, 2025</em>
-              <br>
-              <a href="https://arxiv.org/abs/2407.10070">[arXiv]</a>
-              <a href="https://github.com/pratikrathore8/fast_krr">[code]</a>
-              <span class="toggle-link" onclick="toggleAbstract('abstract-askotch')">[abstract]</span>
-              <p id="abstract-askotch" class="abstract-content">
-                We develop ASkotch, a scalable, accelerated, iterative method for full 
-                kernel ridge regression (KRR) that provably obtains linear convergence.
-                ASkotch outperforms state-of-the-art KRR solvers on a testbed of 23 large-scale
-                KRR regression and classification tasks derived from a wide range of application domains.
-                Our work opens up the possibility of as-yet-unimagined applications of 
-                full KRR across a number of disciplines.
-              </p>
-            </td>
-          </tbody>
-        </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tbody>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-              <a href="https://arxiv.org/abs/2402.01868">
-                <papertitle>Challenges in Training PINNs: A Loss Landscape Perspective</papertitle>
-              </a>
-              <br>
-              <strong>Pratik Rathore</strong>,
-              Weimu Lei,
-              Zachary Frangella,
-              <a href="https://lugroup.yale.edu/">Lu Lu</a>,
-              <a href="https://web.stanford.edu/~udell/">Madeleine Udell</a>
-              <br>
-              <em>ICML, 2024, <strong>Oral (top 1.5% of submissions)</strong></em>
-              <br>
-              <a href="https://arxiv.org/abs/2402.01868">[arXiv]</a>
-              <a href="https://github.com/pratikrathore8/opt_for_pinns">[code]</a>
-              <span class="toggle-link" onclick="toggleAbstract('abstract-pinns')">[abstract]</span>
-              <p id="abstract-pinns" class="abstract-content">
-                We study challenges in training physics-informed neural networks. We link training issues to ill-conditioning of the loss,
-                and show a combined Adam and L-BFGS approach, along with a new optimizer, NysNewton-CG, enhances PINN performance.
-              </p>
-            </td>
-          </tbody>
-        </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tbody>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-              <a href="https://arxiv.org/abs/2309.02014">
-                <papertitle>PROMISE: Preconditioned Stochastic Optimization Methods by Incorporating Scalable Curvature Estimates</papertitle>
-              </a>
-              <br>
-              Zachary Frangella<sup>*</sup>,
-              <strong>Pratik Rathore<sup>*</sup></strong>,
-              Shipu Zhao,
-              <a href="https://web.stanford.edu/~udell/">Madeleine Udell</a>
-              <br>
-              <em>JMLR, 2024</em>
-              <br>
-              <a href="https://arxiv.org/abs/2309.02014">[arXiv]</a>
-              <a href="https://github.com/udellgroup/PROMISE">[code]</a>
-              <span class="toggle-link" onclick="toggleAbstract('abstract-promise')">[abstract]</span>
-              <p id="abstract-promise" class="abstract-content">
-                We propose PROMISE, a family of preconditioned stochastic optimization methods that use scalable, randomized curvature estimates to solve
-                large-scale, ill-conditioned convex optimization problems in machine learning.
-                PROMISE methods, with <em>default</em> hyperparameters, outperform popular <em>tuned</em> stochastic optimizers on ridge and logistic regression.
-                Furthermore, we introduce <em>quadratic regularity</em>, which determines the speed of linear convergence for PROMISE methods
-                and allows us to obtain improved rates for ridge regresison.
-              </p>
-            </td>
-          </tbody>
-        </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tbody>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-              <a href="https://arxiv.org/abs/2211.08597">
-                <papertitle>SketchySGD: Reliable Stochastic Optimization via Randomized Curvature Estimates</papertitle>
-              </a>
-              <br>
-              Zachary Frangella,
-              <strong>Pratik Rathore</strong>,
-              Shipu Zhao,
-              <a href="https://web.stanford.edu/~udell/">Madeleine Udell</a>
-              <br>
-              <em>SIMODS, 2024</em>
-              <br>
-              <a href="https://arxiv.org/abs/2211.08597">[arXiv]</a>
-              <a href="https://github.com/udellgroup/SketchySGD/tree/main/convex">[code]</a>
-              <span class="toggle-link" onclick="toggleAbstract('abstract-sketchysgd')">[abstract]</span>
-              <p id="abstract-sketchysgd" class="abstract-content">
-                We use techniques from randomized numerical linear algebra to develop a fast, scalable, preconditioned stochastic gradient method for convex machine learning problems.
-              </p>
-            </td>
-          </tbody>
-        </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-              <a href="https://arxiv.org/abs/1808.10027">
-                <papertitle>There are no Cube-free Descartes Numbers with Exactly Seven Distinct Prime Factors</papertitle>
-              </a>
-              <br>
-              <strong>Pratik Rathore</strong>
-              <br>
-              <em>preprint, 2018</em>
-              <br>
-              <a href="https://arxiv.org/abs/1808.10027">[arXiv]</a>
-              <span class="toggle-link" onclick="toggleAbstract('abstract-descartes')">[abstract]</span>
-              <p id="abstract-descartes" class="abstract-content">
-              We prove new results regarding the prime factorizations of Descartes numbers, a family of odd spoof perfect numbers.
-              </p>
-            </td>
-        </tbody></table>
-
-				
+        {% for pub in site.data.publications %}{% include publication.html pub=pub %}{% endfor %}
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
           <tr>
             <td>
@@ -264,8 +92,6 @@
               TA, Intermediate Programming Concepts for Engineers (ENEE 150), Spring 2021
             </td>
           </tr>
-					
-					
         </tbody></table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
           <tr>

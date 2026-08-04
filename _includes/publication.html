@@ -1,0 +1,28 @@
+{%- comment -%}
+Renders one publication block. Pass a record from _data/publications.yml:
+  {% include publication.html pub=record %}
+Authors come from _data/authors.yml by key; `self` is bold; keys listed in
+`pub.equal_contrib` get a trailing "*".
+{%- endcomment -%}
+{%- assign pub = include.pub -%}
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+      <a href="{{ pub.url }}">
+        <papertitle>{{ pub.title }}</papertitle>
+      </a>
+      <br>
+      {% for a in pub.authors -%}
+      {% if a == "self" %}<strong>Pratik Rathore{% if pub.equal_contrib contains a %}<sup>*</sup>{% endif %}</strong>{% else %}{% include author.html id=a %}{% if pub.equal_contrib contains a %}<sup>*</sup>{% endif %}{% endif %}{% unless forloop.last %}, {% endunless %}
+      {%- endfor %}
+      <br>
+      <em>{{ pub.venue }}</em>
+      <br>
+      {% for l in pub.links %}<a href="{{ l.url }}">[{{ l.label }}]</a>
+      {% endfor %}<span class="toggle-link" onclick="toggleAbstract('abstract-{{ pub.id }}')">[abstract]</span>
+      <p id="abstract-{{ pub.id }}" class="abstract-content">
+        {{ pub.abstract }}
+      </p>
+    </td>
+  </tbody>
+</table>

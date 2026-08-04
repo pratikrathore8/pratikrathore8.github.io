@@ -1,0 +1,14 @@
+# Coauthors / linked people, defined once and referenced by key from
+# index.html and _includes/publication.html. Linked authors have a `url`;
+# unlinked authors have only a `name` (rendered as plain text).
+udell:      { name: "Madeleine Udell",     url: "https://web.stanford.edu/~udell/" }
+frangella:  { name: "Zachary Frangella",   url: "https://zfrangella.github.io/" }
+derezinski: { name: "Michał Dereziński",   url: "https://web.eecs.umich.edu/~derezin/" }
+lai:        { name: "Ching-Yao Lai",       url: "https://icyphysics.stanford.edu/" }
+fazliani:   { name: "Shaghayegh Fazliani", url: "https://fazliani.owlstown.net/" }
+yang:       { name: "Jiaming Yang",        url: "https://edwinyang7.github.io/" }
+lulu:       { name: "Lu Lu",               url: "https://lugroup.yale.edu/" }
+stitt:      { name: "Joseph Stitt" }
+garg:       { name: "Sachin Garg" }
+lei:        { name: "Weimu Lei" }
+zhao:       { name: "Shipu Zhao" }
