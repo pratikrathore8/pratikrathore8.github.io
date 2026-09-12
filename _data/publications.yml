@@ -30,7 +30,7 @@
     Our experiments on this dataset demonstrate SubsurfaceGen's potential to accelerate the development of ML-based FWI methods.
 
 - id: askotch
-  title: "Have ASkotch: A Neat Solution for Large-scale Kernel Ridge Regression"
+  title: "Have ASkotch: A Neat Solution for Large-Scale Kernel Ridge Regression"
   url: "https://jmlr.org/papers/v27/25-0385.html"
   authors: [self, frangella, yang, derezinski, udell]
   venue: "JMLR, 2026"
@@ -47,7 +47,7 @@
 
 - id: gps
   title: "Turbocharging Gaussian Process Inference with Approximate Sketch-and-Project"
-  url: "https://arxiv.org/abs/2505.13723"
+  url: "https://proceedings.nips.cc/paper_files/paper/2025/hash/cf8b2205e39f81726a8d828ecbe00ad0-Abstract-Conference.html"
   authors: [self, frangella, garg, fazliani, derezinski, udell]
   venue: "NeurIPS, 2025"
   links:
@@ -59,7 +59,7 @@
 
 - id: pinns
   title: "Challenges in Training PINNs: A Loss Landscape Perspective"
-  url: "https://arxiv.org/abs/2402.01868"
+  url: "https://proceedings.mlr.press/v235/rathore24a.html"
   authors: [self, lei, frangella, lulu, udell]
   venue: "ICML, 2024, <strong>Oral (top 1.5% of submissions)</strong>"
   links:
@@ -71,7 +71,7 @@
 
 - id: promise
   title: "PROMISE: Preconditioned Stochastic Optimization Methods by Incorporating Scalable Curvature Estimates"
-  url: "https://arxiv.org/abs/2309.02014"
+  url: "https://www.jmlr.org/papers/v25/23-1187.html"
   authors: [frangella, self, zhao, udell]
   equal_contrib: [frangella, self]
   venue: "JMLR, 2024"
@@ -83,11 +83,11 @@
     large-scale, ill-conditioned convex optimization problems in machine learning.
     PROMISE methods, with <em>default</em> hyperparameters, outperform popular <em>tuned</em> stochastic optimizers on ridge and logistic regression.
     Furthermore, we introduce <em>quadratic regularity</em>, which determines the speed of linear convergence for PROMISE methods
-    and allows us to obtain improved rates for ridge regresison.
+    and allows us to obtain improved rates for ridge regression.
 
 - id: sketchysgd
   title: "SketchySGD: Reliable Stochastic Optimization via Randomized Curvature Estimates"
-  url: "https://arxiv.org/abs/2211.08597"
+  url: "https://epubs.siam.org/doi/10.1137/23M1575330"
   authors: [frangella, self, zhao, udell]
   venue: "SIMODS, 2024"
   links:
