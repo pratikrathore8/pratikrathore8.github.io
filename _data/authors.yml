@@ -12,3 +12,5 @@ stitt:      { name: "Joseph Stitt" }
 garg:       { name: "Sachin Garg" }
 lei:        { name: "Weimu Lei" }
 zhao:       { name: "Shipu Zhao" }
+nobel:      { name: "Parth Nobel",        url: "https://ptnobel.github.io/" }
+hu:         { name: "Xuning Hu" }

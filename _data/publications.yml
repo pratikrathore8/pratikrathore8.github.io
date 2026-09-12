@@ -2,6 +2,18 @@
 # loop in index.html. `authors` is a list of keys from _data/authors.yml, plus
 # the special key `self` (Pratik Rathore, bold). `equal_contrib` lists the keys
 # that get a "*". `venue` and `abstract` may contain inline HTML.
+- id: rlaopt
+  title: "GPU-Enabled Large-Scale Optimization Using Randomized Linear Algebra"
+  url: "https://arxiv.org/abs/2609.08136"
+  authors: [self, frangella, nobel, hu, udell]
+  venue: "arXiv, 2026"
+  links:
+    - { label: arXiv, url: "https://arxiv.org/abs/2609.08136" }
+    - { label: code,  url: "https://github.com/udellgroup/rlaopt" }
+  abstract: >
+    We introduce rlaopt, a PyTorch package for GPU-enabled large-scale optimization and scientific computing using randomized numerical linear algebra.
+    rlaopt provides solvers for positive-definite linear systems and constrained, regularized convex empirical risk minimization, with a modeling language that makes it easy to specify optimization problems.
+
 - id: subsurfacegen
   title: "SubsurfaceGen: Procedural Generation of Field-Scale Earth Models and Seismic Data"
   url: "https://arxiv.org/abs/2605.30541"
@@ -17,6 +29,22 @@
     We address these limitations with SubsurfaceGen, a GPU-accelerated generator for 3D velocity models and seismic data, which we use to create a field-scale, geologically diverse, physically realistic dataset (available on Hugging Face).
     Our experiments on this dataset demonstrate SubsurfaceGen's potential to accelerate the development of ML-based FWI methods.
 
+- id: askotch
+  title: "Have ASkotch: A Neat Solution for Large-scale Kernel Ridge Regression"
+  url: "https://jmlr.org/papers/v27/25-0385.html"
+  authors: [self, frangella, yang, derezinski, udell]
+  venue: "JMLR, 2026"
+  links:
+    - { label: arXiv, url: "https://arxiv.org/abs/2407.10070" }
+    - { label: code,  url: "https://github.com/pratikrathore8/fast_krr" }
+  abstract: >
+    We develop ASkotch, a scalable, accelerated, iterative method for full
+    kernel ridge regression (KRR) that provably obtains linear convergence.
+    ASkotch outperforms state-of-the-art KRR solvers on a testbed of 23 large-scale
+    KRR regression and classification tasks derived from a wide range of application domains.
+    Our work opens up the possibility of as-yet-unimagined applications of
+    full KRR across a number of disciplines.
+
 - id: gps
   title: "Turbocharging Gaussian Process Inference with Approximate Sketch-and-Project"
   url: "https://arxiv.org/abs/2505.13723"
@@ -28,22 +56,6 @@
   abstract: >
     We develop an approximate, distributed, accelerated sketch-and-project
     method that scales Gaussian process inference to hundreds of millions of samples.
-
-- id: askotch
-  title: "Have ASkotch: A Neat Solution for Large-scale Kernel Ridge Regression"
-  url: "https://arxiv.org/abs/2407.10070"
-  authors: [self, frangella, yang, derezinski, udell]
-  venue: "submitted, 2025"
-  links:
-    - { label: arXiv, url: "https://arxiv.org/abs/2407.10070" }
-    - { label: code,  url: "https://github.com/pratikrathore8/fast_krr" }
-  abstract: >
-    We develop ASkotch, a scalable, accelerated, iterative method for full
-    kernel ridge regression (KRR) that provably obtains linear convergence.
-    ASkotch outperforms state-of-the-art KRR solvers on a testbed of 23 large-scale
-    KRR regression and classification tasks derived from a wide range of application domains.
-    Our work opens up the possibility of as-yet-unimagined applications of
-    full KRR across a number of disciplines.
 
 - id: pinns
   title: "Challenges in Training PINNs: A Loss Landscape Perspective"
